@@ -159,7 +159,7 @@ Backend lead for three real-time integrated healthcare systems. Prescription wri
 ---
 
 ## 📬 Let's Work Together
-If you're building a SaaS product, need a reliable backend engineer, or want someone who can own a feature end-to-end — let's talk.
+If you're building a SaaS product, need a reliable full stack engineer, or want someone who can own a feature end-to-end — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/usamaali012)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usamaali012@gmail.com)
