@@ -102,7 +102,7 @@ Unified ERP replacing disconnected spreadsheets across Purchase, Manufacturing, 
 
 ---
 
-### ☢️ RFID Asset Tracking — Radiation Professionals
+### ☢️ [RFID Asset Tracking — Radiation Professionals](https://github.com/usamaali012/oil-gas-asset-tracking)
 > Offline-first compliance platform for tracking radioactive equipment in the field
 
 Built for Radiation Professionals Australia — tracks radioactive equipment across job sites with full chain-of-custody audit trails required by regulatory bodies.
