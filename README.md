@@ -61,15 +61,6 @@ Currently pursuing an **MS in Computer Science at NUST**, Islamabad — Pakistan
 ---
 
 ## 📊 GitHub Stats
-
-<div align="center">
-
-![Usama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=usamaali012&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=usamaali012&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=usamaali012&theme=tokyonight&hide_border=true)
