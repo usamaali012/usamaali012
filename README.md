@@ -87,7 +87,7 @@ Built a multi-tenant SaaS platform serving 5–6 enterprise clients, each with f
 
 ---
 
-### 🏭 DK-Tea ERP System(https://github.com/usamaali012/dkt-erp)
+### 🏭 [DK-Tea ERP System](https://github.com/usamaali012/dkt-erp)
 > Full ERP platform for tea manufacturing and distribution — 5 integrated business modules
 
 Unified ERP replacing disconnected spreadsheets across Purchase, Manufacturing, Sales, HR, and Inventory for a mid-sized tea company. Built a Python PDF engine producing 9+ parameterized report types.
